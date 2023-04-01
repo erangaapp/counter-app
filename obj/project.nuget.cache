@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "awSvfE4Z7l7SyIo8smae41HiOwGsw5ur1OIbbIH3TvbdRSoHPgcsUMQiQ0g7p43JbwhO6/TuuzkMpFe7EhpHOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e.pushpakumara\\source\\repos\\Docker\\Docker 01\\App\\DotNet.Docker.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sana-commerce.com/AddonsDev/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
